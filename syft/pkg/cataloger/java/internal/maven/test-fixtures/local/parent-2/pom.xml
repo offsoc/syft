@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <commons.lang3.version>3.14.0</commons.lang3.version>
+        <commons.lang3.version>3.18.0</commons.lang3.version>
         <commons.collections4.version>4.4</commons.collections4.version>
         <commons.text.version>1.12.0</commons.text.version>
         <commons.junit.version>4.13.2</commons.junit.version>
